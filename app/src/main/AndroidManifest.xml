@@ -2,6 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.vegeta.smartring" >
 
+    <uses-sdk android:minSdkVersion="8"/>
     <application
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
